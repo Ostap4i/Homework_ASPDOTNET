@@ -1,0 +1,36 @@
+C:\Users\Support\Desktop\Git\ADONET_Classwork_1\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe.config
+C:\Users\Support\Desktop\Git\ADONET_Classwork_1\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe
+C:\Users\Support\Desktop\Git\ADONET_Classwork_1\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.pdb
+C:\Users\Support\Desktop\Git\ADONET_Classwork_1\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.AssemblyReference.cache
+C:\Users\Support\Desktop\Git\ADONET_Classwork_1\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.CoreCompileInputs.cache
+C:\Users\Support\Desktop\Git\ADONET_Classwork_1\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.exe
+C:\Users\Support\Desktop\Git\ADONET_Classwork_1\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.pdb
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_2\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe.config
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_2\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_2\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.pdb
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_2\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.AssemblyReference.cache
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_2\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.CoreCompileInputs.cache
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_2\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.exe
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_2\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.pdb
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe.config
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.pdb
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.AssemblyReference.cache
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.CoreCompileInputs.cache
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.exe
+C:\Users\Support\Desktop\Git\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.pdb
+C:\Users\Dmytro Leskiv\Desktop\Git\Programming\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe.config
+C:\Users\Dmytro Leskiv\Desktop\Git\Programming\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe
+C:\Users\Dmytro Leskiv\Desktop\Git\Programming\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.pdb
+C:\Users\Dmytro Leskiv\Desktop\Git\Programming\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.AssemblyReference.cache
+C:\Users\Dmytro Leskiv\Desktop\Git\Programming\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro Leskiv\Desktop\Git\Programming\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.exe
+C:\Users\Dmytro Leskiv\Desktop\Git\Programming\ADONET_Classwork_2\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.pdb
+C:\Users\Admin\Desktop\Homeworks\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe.config
+C:\Users\Admin\Desktop\Homeworks\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.exe
+C:\Users\Admin\Desktop\Homeworks\ADONET_Classwork_1\ADONET_Classwork_1\bin\Debug\ADONET_Classwork_1.pdb
+C:\Users\Admin\Desktop\Homeworks\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Homeworks\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Homeworks\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Homeworks\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.exe
+C:\Users\Admin\Desktop\Homeworks\ADONET_Classwork_1\ADONET_Classwork_1\obj\Debug\ADONET_Classwork_1.pdb
