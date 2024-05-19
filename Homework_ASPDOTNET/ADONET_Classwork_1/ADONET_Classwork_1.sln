@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONET_Classwork_1", "ADONET_Classwork_1.csproj", "{6CC15C58-0410-4043-8466-E7EA0D0FE9FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "..\WindowsFormsApp\WindowsFormsApp.csproj", "{1FD58B57-A46B-4888-B202-602F26D4B293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC15C58-0410-4043-8466-E7EA0D0FE9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC15C58-0410-4043-8466-E7EA0D0FE9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC15C58-0410-4043-8466-E7EA0D0FE9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC15C58-0410-4043-8466-E7EA0D0FE9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD58B57-A46B-4888-B202-602F26D4B293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD58B57-A46B-4888-B202-602F26D4B293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD58B57-A46B-4888-B202-602F26D4B293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD58B57-A46B-4888-B202-602F26D4B293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4257DDDB-8190-43B2-BE59-D569A06CFDD1}
+	EndGlobalSection
+EndGlobal
